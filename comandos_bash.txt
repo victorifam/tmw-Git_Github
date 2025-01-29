@@ -1,3 +1,5 @@
-cp = copia o arquivo A para o arquivo B
-cp -r = copia o diretório A para o diretório B
-cut -d = corta o arquivo selecionado e mostra na tela
+cp -> copia o arquivo A para o arquivo B
+cp -r -> copia o diretório A para o diretório B
+cut -d -> corta o arquivo selecionado e mostra na tela
+cat -> exibe o conteúdo do arquivo
+rm -> remove o arquivo ou diretório
